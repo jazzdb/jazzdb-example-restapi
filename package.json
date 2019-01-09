@@ -1,6 +1,7 @@
 {
   "name": "jazzdb-example-restapi",
   "version": "0.6.1",
+  "description": "REST API example using jazzdb",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
